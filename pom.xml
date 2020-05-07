@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.spring.batch</groupId>
-	<artifactId>spring-batch</artifactId>
+	<artifactId>bulk-upload</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bulk-upload</name>
 	<description>Spring Batch Demo</description>
